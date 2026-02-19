@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color: linear-gradient(to bottom, #e3e3e7, #29292b);
             margin: 0;
             padding: 20px;
         }
@@ -38,7 +38,7 @@
         
         .genre {
             display: inline-block;
-            background: linear-gradient(to bottom, #e3e3e7, #29292b);
+            background:  #29292b;
             color: white;
             padding: 5px 10px;
             border-radius: 4px;
